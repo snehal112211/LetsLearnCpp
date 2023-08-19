@@ -1,5 +1,5 @@
 # C++
-C++ programe is send to the compilar and then it execute the code in .exe file - it is tyhe process of compilation
+C++ programe is send to the compilar and then it execute the code in .exe file - it is the process of compilation
 
 G++ is its compilar
 
