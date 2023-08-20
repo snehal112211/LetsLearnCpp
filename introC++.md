@@ -3,7 +3,7 @@ C++ programe is send to the compilar and then it execute the code in .exe file -
 
 G++ is its compilar
 
-It was developed by Bjarna Stroustrup as the extension of the C
+#It was developed by Bjarna Stroustrup as the extension of the C in 1979
 
 Cross platform language can be use to create the high performance.
 
